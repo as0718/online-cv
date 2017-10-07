@@ -1,6 +1,6 @@
 
 title: My Resume
-url: 'http://webjeda.com'
+url: 'https://as0718.github.io/online-cv/'
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -15,7 +15,7 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Alan Sine
 tagline: Sales & Marketing
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: Profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: Hire@Alansine.com
